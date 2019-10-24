@@ -121,7 +121,6 @@ bash /data/data/com.termux/files/home/Tool-X/sh install.aex
 exit
 ;;
 
-*) echo "sorry, pilihan yang kamu cari tidak tersedia"
 esac
 done
 done
